@@ -1,0 +1,8 @@
+
+{
+  "name": "DuyTTS Studio",
+  "description": "Trải nghiệm giọng nói AI chuyên nghiệp với đầy đủ 30 giọng đọc từ Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
